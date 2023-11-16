@@ -1,2 +1,16 @@
 # Showcase-Dashboard
-Here is a list of my repositories that host various project work.
+
+### Personal Projects
+- Financial Order Book Analytics [TBA](TBA)
+- Finance Automation [TBA](TBA)
+
+### University of Denver Data Analytics Coureswork
+- Unstructured Data Analytics [Highlights](https://github.com/EvanElzenberger/UnstructuredDataAnalytics/blob/main/README.md)
+- Optimization Modeling [Highlights](https://github.com/EvanElzenberger/OptimizationModeling)
+- Data Warehousing and Visualisation [Highlights](https://github.com/EvanElzenberger/DataWarehousing) (Page in Progress)
+- Sports Analytics [Highlights](https://github.com/EvanElzenberger/SportsAnalytics)
+
+### University of Denver Finance Coursework
+- Multinational Financial Management [TBA](TBA)
+- Corportate Financial Problems [TBA](TBA)
+- Investments [TBA](TBA)
